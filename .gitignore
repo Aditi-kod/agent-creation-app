@@ -1,0 +1,32 @@
+# Ignore node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignore build and cache output
+dist/
+build/
+.client/
+.server/
+.vite/
+.next/
+coverage/
+.cache/
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore editor settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
