@@ -1,4 +1,4 @@
-# MERN Stack Developer Assignment
+# Agent Management App
 
 This project is a MERN (MongoDB, Express.js, React.js, Node.js) application built to fulfill a machine test assignment with the following core features:
 
